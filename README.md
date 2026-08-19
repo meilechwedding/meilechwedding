@@ -11,17 +11,9 @@ I build AI agents, automation systems, and full-stack products that turn real bu
 
 ## Featured Work
 
-### [YidVibe](https://github.com/meilechwedding/yidvibe)
-
-A full-stack community marketplace for AI builders, with profiles, project showcases, gigs, competitions, events, and database-enforced access controls.
-
 ### [MostAI](https://github.com/meilechwedding/MostAI)
 
 The studio behind my work in AI agents, automations, websites, and custom software for real businesses.
-
-### [Community Home Care](https://github.com/meilechwedding/community-home-care)
-
-A policy-controlled AI marketing operations system built around deterministic guardrails, provider isolation, auditability, and human approval gates.
 
 ### [Sequin Table](https://github.com/meilechwedding/sequin-table)
 
@@ -30,6 +22,8 @@ A premium table-linen design system and interactive storefront concept built wit
 ### [YG Plans](https://github.com/meilechwedding/yg-plans)
 
 A responsive portfolio website for an architecture and planning studio in Monsey, New York.
+
+Client systems and security-sensitive product code remain private when they contain operational context, data models, or integration details.
 
 ## How I Build
 
