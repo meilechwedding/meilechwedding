@@ -11,6 +11,10 @@ I build AI agents, automation systems, and full-stack products that turn real bu
 
 ## Featured Work
 
+### [YidVibe](https://github.com/meilechwedding/yidvibe)
+
+A full-stack community marketplace for AI builders, with profiles, gigs, showcases, competitions, and events. Built with Next.js, TypeScript, Supabase, Postgres RLS, and tested authorization boundaries.
+
 ### [MostAI](https://github.com/meilechwedding/MostAI)
 
 The studio behind my work in AI agents, automations, websites, and custom software for real businesses.
